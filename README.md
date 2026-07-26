@@ -108,7 +108,7 @@ Scalable real-time chat platform supporting text, images, emojis, delivery statu
 <p align="center">
   <a href="mailto:prashantpanchal058@gmail.com">📧 prashantpanchal058@gmail.com</a> &nbsp;|&nbsp;
   <a href="https://linkedin.com/in/prashantpanchal058">💼 LinkedIn</a> &nbsp;|&nbsp;
-  <a href="https://github.com/prashantpanchal058">🐙 GitHub</a>
+  <a href="https://github.com/prashantpanchal058">🐙 GitHub</a> &nbsp;|&nbsp;
   <a href="https://leetcode.com/prashantpanchal058">🧠 Leetcode</a>
 </p>
 
