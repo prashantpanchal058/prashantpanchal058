@@ -55,6 +55,16 @@
 
 ---
 
+### 💼 Experience
+
+**Backend Developer Intern — Inflexya Solutions, Pune**  
+*Feb 2026 – Jul 2026*
+- Collaborated with a 5-member intern team to build and integrate FastAPI REST endpoints for document upload, processing, validation, and schema-validated data ingestion pipelines in a Master Data Management (MDM) platform
+- Built a JavaFX frontend with role-based dashboards for 3 user types (Users, Lawyers, NGOs), integrating government APIs to surface real-time legal information
+- **Stack:** Python, FastAPI, JavaFX, REST APIs, Git
+
+---
+
 ### 📌 Featured Projects
 
 #### 🛒 [Real-Time Personalized Product Recommendation Platform](#)
@@ -74,12 +84,22 @@ Scalable real-time chat platform supporting text, images, emojis, delivery statu
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prashantpanchal058&show_icons=true&theme=default&count_private=true" alt="GitHub Stats" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prashantpanchal058&theme=default" alt="GitHub Streak" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=prashantpanchal058&show_icons=true&theme=radical&count_private=true&hide_border=true&cache_seconds=1800" alt="GitHub Stats" width="48%"/>
+  <img src="https://streak-stats.demolab.com/?user=prashantpanchal058&theme=radical&hide_border=true" alt="GitHub Streak" width="48%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prashantpanchal058&layout=compact&theme=default" alt="Top Languages" width="60%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prashantpanchal058&layout=compact&theme=radical&hide_border=true&cache_seconds=1800" alt="Top Languages" width="45%"/>
+</p>
+
+> 💡 If any card above shows as a broken image, it's usually the shared `github-readme-stats` demo server being rate-limited — it self-resolves on refresh. See the note at the bottom for a permanent fix.
+
+---
+
+### 🧩 LeetCode Stats
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/prashantpanchal058?theme=dark&font=Karla&ext=heatmap" alt="LeetCode Stats" width="70%"/>
 </p>
 
 ---
@@ -93,3 +113,11 @@ Scalable real-time chat platform supporting text, images, emojis, delivery statu
 </p>
 
 <p align="center"><i>⭐ From solving 500+ DSA problems to building production RAG pipelines — always shipping.</i></p>
+
+<!--
+NOTE: The GitHub stats/top-langs/streak cards use free shared demo servers
+(github-readme-stats.vercel.app, streak-stats.demolab.com). These occasionally
+get rate-limited and show as broken images. If it keeps happening, deploy your
+own free instance by forking https://github.com/anuraghazra/github-readme-stats
+to Vercel, then swap the domain in the image URLs above with your own deployment.
+-->
