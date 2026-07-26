@@ -12,7 +12,7 @@
 
 ### 🚀 About Me
 - 🎓 B.Tech in Computer Science @ Walchand Institute of Technology, Solapur (CGPA: 9.26/10, Expected 2027)
-- 💼 Currently Backend Developer Intern @ **Inflexya Solutions**, Pune (Feb 2026 – Jul 2026)
+- 💼 Currently Backend Developer Intern @ **Inflexa Solutions**, Pune (Feb 2026 – Jul 2026)
 - 🛠️ Building FastAPI REST endpoints for document upload, validation, and schema-validated data ingestion pipelines for a Master Data Management (MDM) platform
 - 🧠 Interested in RAG systems, recommendation engines, and real-time distributed applications
 - 🏆 Solved 500+ DSA problems on LeetCode & GeeksforGeeks
