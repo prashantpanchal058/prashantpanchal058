@@ -5,6 +5,7 @@
   <a href="mailto:prashantpanchal058@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://linkedin.com/in/prashantpanchal058"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/prashantpanchal058"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://leetcode.com/prashantpanchal058"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
 </p>
 
 ---
@@ -108,6 +109,7 @@ Scalable real-time chat platform supporting text, images, emojis, delivery statu
   <a href="mailto:prashantpanchal058@gmail.com">📧 prashantpanchal058@gmail.com</a> &nbsp;|&nbsp;
   <a href="https://linkedin.com/in/prashantpanchal058">💼 LinkedIn</a> &nbsp;|&nbsp;
   <a href="https://github.com/prashantpanchal058">🐙 GitHub</a>
+  <a href="https://leetcode.com/prashantpanchal058">🧠 Leetcode</a>
 </p>
 
 <p align="center"><i>⭐ From solving 500+ DSA problems to building production RAG pipelines — always shipping.</i></p>
