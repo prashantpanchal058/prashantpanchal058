@@ -58,7 +58,7 @@
 
 ### 💼 Experience
 
-**Backend Developer Intern — Inflexya Solutions, Pune**  
+**Backend Developer Intern — Inflexa Solutions, Pune**  
 *Feb 2026 – Jul 2026*
 - Collaborated with a 5-member intern team to build and integrate FastAPI REST endpoints for document upload, processing, validation, and schema-validated data ingestion pipelines in a Master Data Management (MDM) platform
 - Built a JavaFX frontend with role-based dashboards for 3 user types (Users, Lawyers, NGOs), integrating government APIs to surface real-time legal information
