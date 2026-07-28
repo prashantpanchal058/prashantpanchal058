@@ -85,8 +85,7 @@ Scalable real-time chat platform supporting text, images, emojis, delivery statu
 ### 📊 GitHub Stats
 
 <p align="center">
-  <!-- <img src="https://github-readme-stats.vercel.app/api?username=prashantpanchal058&show_icons=true&theme=radical&count_private=true&hide_border=true&cache_seconds=1800" alt="GitHub Stats" width="48%"/> -->
-  <img src="https://streak-stats.demolab.com/?user=prashantpanchal058&theme=radical&hide_border=true" alt="GitHub Streak" width="48%"/>
+  <img src="https://streak-stats.demolab.com?user=prashantpanchal058&theme=radical&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 <!-- <p align="center">
